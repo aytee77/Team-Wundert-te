@@ -4,5 +4,11 @@
     "inputFiles": [
       "css/agency.css"
     ]
+  },
+  {
+    "outputFileName": "css/Custom.min.css",
+    "inputFiles": [
+      "css/Custom.css"
+    ]
   }
 ]
